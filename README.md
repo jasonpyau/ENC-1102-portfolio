@@ -1,0 +1,1 @@
+For my ENC 1102 (Composition II) class, we had to make a portfolio of completed work by creating a Wix or Weebly site, use Google Sites, create a PDF, etc. I decided to code up a basic website with PHP and Bootstrap and host it on my Raspberry Pi via Lighttpd, secured with Cloudflare's tunneling services.
